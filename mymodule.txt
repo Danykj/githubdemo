@@ -1,2 +1,7 @@
 print("this is my first module")
+<<<<<<< HEAD
 print("for first commit")
+print("for second commit")
+=======
+print("this is the second line")
+>>>>>>> parent of 4b76022 (test commit)
